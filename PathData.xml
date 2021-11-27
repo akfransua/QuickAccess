@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Links>
+	<Link>
+		<Path>chrome.exe</Path>
+		<Name>Chrome Browser</Name>
+	</Link>
+	<Link>
+		<Path>firefox.exe</Path>
+		<Name>Chrome Browser</Name>
+	</Link>
+	<Link>
+		<Path>C:\Eclipse\eclipse\eclipse.exe</Path>
+		<Name>Eclispe</Name>
+	</Link>
+	<Link>
+		<Path>C:\Eclipse\eclipse.exe</Path>
+		<Name>Chrome Browser</Name>
+	</Link>
+	<Link>
+		<Path>Thunderbird.exe</Path>
+		<Name>Chrome Browser</Name>
+	</Link>
+	<Link>
+		<Path>C:\Program Files\Java</Path>
+		<Name>Chrome Browser</Name>
+	</Link>
+	<Link>
+		<Path>C:\Program Files\MySQL\MySQL Workbench 8.0 CE\MySQLWorkbench.exe</Path>
+		<Name>mysql</Name>
+	</Link>
+	<Link>
+		<Path>C:\Users\Fransua\source\repos\QuickAccess</Path>
+		<Name>Quick Access folder</Name>
+	</Link>
+	<Link>
+		<Path>C:\Users\Fransua\AppData\Local\Programs\Microsoft VS Code\Code.exe</Path>
+		<Name>VScode</Name>
+	</Link>
+	<Link>
+		<Path>C:\Users\Fransua\AppData\Local\GitHubDesktop\GitHubDesktop.exe</Path>
+		<Name>Github</Name>
+	</Link>
+	<Link>
+		<Path>C:\Users\Fransua\Desktop\GoToMeeting.lnk</Path>
+		<Name>Github</Name>
+	</Link>
+	<Link>
+		<Path>C:\Program Files (x86)\Splashtop\Splashtop Remote\Client for STB\clientoobe.exe</Path>
+		<Name>Splash top</Name>
+	</Link>
+	<Link>s
+		<Path>C:\Windows\System32\cmd.exe</Path>
+		<Name>cmd</Name>
+	</Link>
+	<Link>
+		<Path>C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe</Path>
+		<Name>Windows Edge</Name>
+	</Link>
+		<Link>
+		<Path>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv.exe</Path>
+		<Name>Visual Studio</Name>
+	</Link>
+	<Link>
+		<Path>C:\Users\Fransua\AppData\Local\Postman\Postman.exe</Path>
+		<Name>mysql</Name>
+	</Link>
+	<Link>
+		<Path>Shutdown Computer</Path>
+		<Name>shutdown</Name>
+	</Link>
+	<Link>
+		<Path>Restart Computer</Path>
+		<Name>Visual Studio</Name>
+	</Link>
+</Links> 

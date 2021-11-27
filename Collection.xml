@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cams>
+	<Cam>
+		<Name>Name</Name>
+		<Link>Link</Link>
+		<Path>Path</Path>
+	</Cam>
+	<Cam>
+		<Name>samson</Name>
+		<Link>Link</Link>
+		<Path>Path</Path>
+	</Cam>
+</Cams>
